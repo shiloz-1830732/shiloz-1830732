@@ -1,0 +1,46 @@
+body {background-color: coral;}
+
+#p1 {
+	font-family: "Courier New", Courier, monospace;
+}
+#p2 {
+	font-family: "Brush Script MT", cursive;
+}
+
+#p3 {
+	border: dotted;
+}
+
+#i1 {
+	margin: 20px;
+}
+
+#i2 {
+  float: right;
+  border-radius: 50px;
+  border: 3px solid black;
+}
+
+#i3 {
+
+}
+
+.container {
+    position: absolute;  
+}
+
+.container img {
+    width: 80%;
+    height: auto;
+}
+.text {
+		color: snow;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
